@@ -2403,7 +2403,9 @@ body {
   text-align: left;
 }
 .cid-qL8cVDQiny {
-  background-image: url("../../../assets/images/ruka-2000x1333.jpg");
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/ruka-1-2000x1333.jpg");
 }
 .cid-qL8cVDQiny .icons-media-container {
   display: flex;
@@ -2431,6 +2433,7 @@ body {
 .cid-qL8cVDQiny .mbr-text,
 .cid-qL8cVDQiny .mbr-section-btn {
   text-align: left;
+  color: #232323;
 }
 .cid-qMrHLrXaio .navbar {
   padding: .5rem 0;
