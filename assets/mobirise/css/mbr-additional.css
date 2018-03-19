@@ -1372,38 +1372,16 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qL88L4TNcr {
-  background-image: url("../../../assets/images/ruka-kopie-2000x2213.jpg");
+.cid-qMKWdoun0h {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/ruka-2000x1333.jpg");
 }
-.cid-qL88L4TNcr .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-qL88L4TNcr .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-qL88L4TNcr .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-qL88L4TNcr .mbr-text {
-  color: #ffffff;
-}
-.cid-qL88L4TNcr .card {
-  padding-bottom: 1.5rem;
-}
-.cid-qL88L4TNcr H1 {
-  text-align: left;
+.cid-qMKWdoun0h H1 {
+  text-align: center;
   color: #767676;
 }
-.cid-qL88L4TNcr .mbr-text,
-.cid-qL88L4TNcr .mbr-section-btn {
+.cid-qMKWdoun0h P {
   text-align: left;
   color: #5b686b;
 }
