@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -654,13 +654,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -1372,18 +1372,25 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qMKWdoun0h {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-qMPvlR6sro {
   background-image: url("../../../assets/images/3fotolia-62897488-subscription-monthly-xxl-2000x1333.jpg");
 }
-.cid-qMKWdoun0h H1 {
-  text-align: center;
+.cid-qMPvlR6sro h1 {
+  color: #616161;
+}
+.cid-qMPvlR6sro h2,
+.cid-qMPvlR6sro h3,
+.cid-qMPvlR6sro p {
   color: #767676;
 }
-.cid-qMKWdoun0h P {
-  text-align: left;
-  color: #5b686b;
+.cid-qMPvlR6sro .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qMPvlR6sro P {
+  color: #465052;
+}
+.cid-qMPvlR6sro H3 {
+  color: #767676;
 }
 .cid-qMrGjbFcLw {
   padding-top: 60px;
