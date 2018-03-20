@@ -2882,8 +2882,8 @@ body {
   background-image: url("../../../assets/images/3fotolia-62897488-subscription-monthly-xxl-2000x1333.jpg");
 }
 .cid-qLvZ2KRNWr .mbr-section-text {
-  color: #767676;
-  text-align: center;
+  color: #232323;
+  text-align: left;
 }
 .cid-qLvZ2KRNWr .mbr-section-subtitle {
   color: #767676;
@@ -2935,6 +2935,9 @@ body {
 }
 .cid-qLvZ2KRNWr .nav-tabs .nav-link.active:hover {
   border: 2px solid #149dcc;
+}
+.cid-qLvZ2KRNWr H4 {
+  text-align: left;
 }
 .cid-qMrGKOUHls .navbar {
   padding: .5rem 0;
