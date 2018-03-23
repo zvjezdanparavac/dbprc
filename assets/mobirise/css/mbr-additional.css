@@ -3339,6 +3339,12 @@ body {
 .cid-qN2CiUIcCV .nav-tabs .nav-link.active:hover {
   border: 2px solid #149dcc;
 }
+.cid-qN2CiUIcCV .mbr-section-text I {
+  color: #232323;
+}
+.cid-qN2CiUIcCV H4 {
+  text-align: left;
+}
 .cid-qMPLvG951t {
   padding-top: 60px;
   padding-bottom: 60px;
